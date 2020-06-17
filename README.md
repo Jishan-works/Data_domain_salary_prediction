@@ -26,6 +26,7 @@ Lasso Regression – Normalized regression like lasso would be effective.
 Random Forest – With the sparsity associated with the data, this would be a good fit.
 XGB - To improve accuracy tried gradient boosting model.
 Model performance
+
 The XGB model far outperformed the other approaches on the test and validation sets.
 
 XGB : MAE = 8.18
