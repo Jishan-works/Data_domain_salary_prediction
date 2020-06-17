@@ -43,7 +43,7 @@ df['size_crct'] = df.size_crct.apply(lambda x: ' '.join([str(elem) for elem in x
 
 df_out = df.drop(['Unnamed: 0'], axis=1)
 
-df_out.to_csv('df_out.csv', index = False)
+df_out.to_csv('clean_data.csv', index = False)
 
 
 
