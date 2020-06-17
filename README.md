@@ -23,9 +23,13 @@ Tried three different models and evaluated them using Mean Absolute Error. Chose
 Four different models were used:
 
 Multiple Linear Regression – Baseline for the model.
+
 Lasso Regression – Normalized regression like lasso would be effective.
+
 Random Forest – With the sparsity associated with the data, this would be a good fit.
+
 XGB - To improve accuracy tried gradient boosting model.
+
 Model performance
 
 The XGB model far outperformed the other approaches on the test and validation sets.
