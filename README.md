@@ -29,6 +29,9 @@ Model performance
 The XGB model far outperformed the other approaches on the test and validation sets.
 
 XGB : MAE = 8.18
+
 Random Forest : MAE = 17.10
+
 Ridge Regression: MAE = 19.89
+
 Linear Regression: MAE = 20.30
