@@ -30,7 +30,7 @@ Random Forest – With the sparsity associated with the data, this would be a go
 
 XGB - To improve accuracy tried gradient boosting model.
 
-Model performance
+Model performance:
 
 The XGB model far outperformed the other approaches on the test and validation sets.
 
