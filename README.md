@@ -6,7 +6,7 @@ Repo for data domain salary prediction
 4. Optimized Linear, Lasso, Random Forest Regressor and XGB Regressor using GridsearchCV to reach the best model.
 
 
-Code and Resources Used
+-Code and Resources Used
 
 Python Version: 3.7
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium
