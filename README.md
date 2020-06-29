@@ -33,7 +33,9 @@ Chose MAE because it is relatively easy to interpret and outliers aren’t parti
 
 The XGB model far outperformed the other approaches on the test and validation sets.
 
-1. XGB : MAE = 8.18
-2. Random Forest : MAE = 17.10
-3. Ridge Regression: MAE = 19.89
-4. Linear Regression: MAE = 20.30
+| Model             | MAE           |
+| ------------------|:-------------:|
+| XGB               | 8.18          |
+| Random Forest     | 17.10         |
+| Ridge Regression  | 19.89         |
+| Linear Regression | 19.89         |
