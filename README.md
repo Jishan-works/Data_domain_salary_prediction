@@ -2,7 +2,7 @@
 
 1. Built a simple model that estimates data domain oriented salaries (MAE ~ $ 8K).
 2. Scraped over 1000 job descriptions from glassdoor using python and selenium
-3. Cleaned the data and did EDA to get a better understanding of the data.
+3. Cleaned the data and performed EDA to get a better understanding of the data.
 4. Optimized Linear, Lasso, Random Forest Regressor and XGB Regressor using GridsearchCV to reach the best model.
 
 
